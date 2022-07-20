@@ -34,17 +34,17 @@ IMPORTANTE: O PROJETO-A tem dependencias do PROJETO-B, então antes de tentar ro
 
 *Copiar os seguintes arquivos do servidor:
 
-  $ sudo scp -P22 seu_usuario@a1-ip-remoto:/diretorio_remoto /diretorio_local
+  $ sudo scp -P22 seu_usuario@ip-remoto:/diretorio_remoto /diretorio_local
 
-  $ sudo scp -P22 seu_usuario@a1-ip-remoto:/diretorio_remoto /diretorio_local
+  $ sudo scp -P22 seu_usuario@ip-remoto:/diretorio_remoto /diretorio_local
 
-  $ sudo scp -P22 seu_usuario@a1-ip-remoto:/diretorio_remoto /diretorio_local
+  $ sudo scp -P22 seu_usuario@ip-remoto:/diretorio_remoto /diretorio_local
 
-  $ sudo scp -P22 seu_usuario@a1-ip-remoto:/diretorio_remoto /diretorio_local
+  $ sudo scp -P22 seu_usuario@ip-remoto:/diretorio_remoto /diretorio_local
 
-  $ sudo scp -P22 seu_usuario@a1-ip-remoto:/diretorio_remoto /diretorio_local
+  $ sudo scp -P22 seu_usuario@ip-remoto:/diretorio_remoto /diretorio_local
 
-  $ sudo scp -P22 seu_usuario@a1-ip-remoto:/diretorio_remoto /diretorio_local
+  $ sudo scp -P22 seu_usuario@ip-remoto:/diretorio_remoto /diretorio_local
 
 
 
